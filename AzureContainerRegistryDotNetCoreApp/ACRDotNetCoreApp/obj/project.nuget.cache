@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsCMBLSzJllt96yh50YlqbCbKl8jk5euhTWrfIBZX3nC3NpcatIfys9MYuQGL6o7QKdD7Ep3f2SOV+fdFbCHMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usman.khair.OSSI\\source\\repos\\ACRDotNetCoreApp\\ACRDotNetCoreApp\\ACRDotNetCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usman.khair.OSSI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
